@@ -1,0 +1,11 @@
+{
+  "name": "seat-allocation",
+  "version": "1.0.0",
+  "description": "A modern, feature-rich MERN stack application for managing office seat allocations with batch scheduling, leave management, and floater seat booking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
