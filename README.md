@@ -2,7 +2,7 @@
 
 A modern, feature-rich MERN stack application for managing office seat allocations with batch scheduling, leave management, and floater seat booking.
 
-## 🎯 Features
+##  Features
 
 ### Employee Features
 - **Seat Booking**: Book seats according to your designated batch schedule
@@ -19,7 +19,7 @@ A modern, feature-rich MERN stack application for managing office seat allocatio
 - **Holiday Management**: Add and manage company holidays
 - **Booking Reports**: Generate detailed booking reports with filters
 
-## 📋 Requirements
+##  Requirements
 
 ### Batch Schedule
 - **Batch 1**: Monday-Wednesday (Week 1) & Thursday-Friday (Week 2)
@@ -31,7 +31,7 @@ A modern, feature-rich MERN stack application for managing office seat allocatio
 - 80 employees total (40 per batch)
 - No booking on holidays/weekends
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -101,7 +101,7 @@ npm start
 
 The frontend will open at `http://localhost:3000`
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Authentication Endpoints
 - `POST /api/auth/register` - Register a new employee
@@ -132,7 +132,7 @@ The frontend will open at `http://localhost:3000`
 - `POST /api/admin/holidays` - Add holiday
 - `GET /api/admin/holidays` - Get all holidays
 
-## 🎨 UI/UX Features
+##  UI/UX Features
 
 - **Modern Design**: Clean, professional interface with gradient accents
 - **Responsive Layout**: Works seamlessly on desktop, tablet, and mobile
@@ -141,7 +141,7 @@ The frontend will open at `http://localhost:3000`
 - **Real-time Updates**: Instant feedback on user actions
 - **Accessibility**: WCAG compliant for better accessibility
 
-## 📦 Database Schema
+##  Database Schema
 
 ### Collections
 1. **Employees**: User accounts and batch assignments
@@ -150,7 +150,7 @@ The frontend will open at `http://localhost:3000`
 4. **Leaves**: Employee leave requests and approvals
 5. **Holidays**: Company holidays and blocked dates
 
-## 🔐 Security Features
+##  Security Features
 
 - JWT token-based authentication
 - Password hashing with bcrypt
@@ -159,7 +159,7 @@ The frontend will open at `http://localhost:3000`
 - CORS protection
 - Protected API endpoints
 
-## 📊 Business Logic
+##  Business Logic
 
 ### Booking Validation
 - Check if date is holiday/weekend
@@ -190,7 +190,7 @@ The frontend will open at `http://localhost:3000`
 - Zustand for state management
 - React Hot Toast for notifications
 
-## 📧 Demo Credentials
+##  Demo Credentials
 
 **Admin:**
 - Email: `admin@company.com`
@@ -200,7 +200,7 @@ The frontend will open at `http://localhost:3000`
 - Email: `emp1@company.com`
 - Password: `password`
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -208,14 +208,17 @@ The frontend will open at `http://localhost:3000`
 4. Push to the branch
 5. Create a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 🙋 Support
+##  Support
 
 For issues, questions, or suggestions, please create an issue in the repository.
 
 ---
 
-Built with ❤️ for better office seat management
+Built with  for better office seat management
+
+
+
